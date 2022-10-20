@@ -30,6 +30,7 @@ adb shell pm uninstall --user 0 com.huawei.compass
 adb shell pm uninstall --user 0 com.huawei.android.ds
 adb shell pm uninstall --user 0 com.huawei.bd
 adb shell pm uninstall --user 0 com.huawei.hwvplayer
+adb shell pm uninstall --user 0 com.huawei.android.totemweather
 adb shell pm uninstall --user 0 com.android.chrome
 adb shell pm uninstall --user 0 com.android.dreams.basic
 adb shell pm uninstall --user 0 com.android.dreams.phototable
